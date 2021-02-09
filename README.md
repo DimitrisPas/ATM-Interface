@@ -31,8 +31,7 @@ I made this ATM Interface with which you can create your own bank account and ch
 
 **Here i chose the 1st option which is the Transaction History. You choose the acccount you want to see and you'll see the corresponding Transaction History.**
 
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-
+___________________________________
 **Hope you Enjoy!**
 
 ![beaming_face_with_smiling_eyes_256_2](https://user-images.githubusercontent.com/64647085/106597596-4cd10f80-655f-11eb-96ae-6e9fbd5c2633.gif)
